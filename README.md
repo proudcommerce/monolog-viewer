@@ -1,6 +1,6 @@
 # Monolog viewer
 
-Monolog viewer script for symfony.
+Monolog viewer script for symfony and oxid esales.
 
 ## Usage
 
